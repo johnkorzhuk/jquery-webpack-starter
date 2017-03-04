@@ -7,7 +7,6 @@ A starting point for a basic jquery app using Webpack. Functionality is very lim
 ### Installation
 
 `npm install` or `yarn install`
-
 `npm start` or `yarn start` for developement
 
 ### Production build
@@ -16,5 +15,4 @@ A starting point for a basic jquery app using Webpack. Functionality is very lim
 
 ### Deployment
 I've got [surge.sh](http://surge.sh/) preconfigured for deployment. In package.json uncomment "deploy" and add a domain. If you've never used surge.sh you may need to create an account.
-
 `npm run deploy` or `yarn deploy`
