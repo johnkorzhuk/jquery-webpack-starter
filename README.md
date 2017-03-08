@@ -12,6 +12,10 @@ An app that pulls data from spotify / soundcloud / youtube and consolidates it i
 - [ ] Pull playlist from spotify from user input
 - [ ] Create youtube playlist from spotify playlist
 
+### Todos
+
+- [ ] Handle users who signed in but didn't grant access
+
 
 ### Questions for Emanuel
 
