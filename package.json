@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "predeploy": "webpack -p --config=webpack.prod.js",
-    // "deploy": "surge --project dist --domain https://thinkful-tube.surge.sh",
+    "deploy": "surge --project dist --domain https://consolidateYT.surge.sh",
     "start": "webpack-dev-server"
   },
   "devDependencies": {
