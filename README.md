@@ -1,20 +1,17 @@
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
-# Basic JQuery Webpack Starting point
+# ConsolidateYT
 
-A starting point for a basic jquery app using Webpack. Functionality is very limited.
+An app that pulls data from spotify / soundcloud / youtube and consolidates it into one youtube playlist
 
-### Installation
+### MVP Todos
 
-`npm install` or `yarn install`
+- [ ] Get OAuth2 working with youtube data scope
+- [ ] Create a playlist
+- [ ] Add items to that playlist
+- [ ] Pull playlist from spotify from user input
+- [ ] Create youtube playlist from spotify playlist
 
-`npm start` or `yarn start` for developement
 
-### Production build
+### Questions for Emanuel
 
-`npm run predeploy` or `yarn predeploy` for production build
-
-### Deployment
-I've got [surge.sh](http://surge.sh/) preconfigured for deployment. In package.json uncomment "deploy" and add a domain. If you've never used surge.sh you may need to create an account.
-
-`npm run deploy` or `yarn deploy`
